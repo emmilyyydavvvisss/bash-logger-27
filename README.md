@@ -1,2 +1,4 @@
-# bash-logger-27
+# Bash Logger 27
+
 Compress logging directories into backups in Bash.
+
